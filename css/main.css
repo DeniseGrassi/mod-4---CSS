@@ -65,7 +65,7 @@ section .container h2,
 }
 
 .articles article a {
-    background-color: rgba(0, 0, 255, 0.692);
+    background-color: rgba(0, 0, 255, 0.5);
     color: #fff;
     padding: 8px;
     display: inline-block;
